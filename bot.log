@@ -1,0 +1,81 @@
+2024-11-03 16:28:23,919 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:28:24,023 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:28:24,023 - root - INFO - Бот запущен
+2024-11-03 16:28:24,023 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:30:17,686 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:30:17,793 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:30:17,793 - root - INFO - Бот запущен
+2024-11-03 16:30:17,793 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:31:33,662 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:31:33,663 - utils.watermark - ERROR - Ошибка при обработке изображения: 'ImageDraw' object has no attribute 'textsize'
+2024-11-03 16:33:34,247 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:33:34,375 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:33:34,376 - root - INFO - Бот запущен
+2024-11-03 16:33:34,376 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:33:46,393 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:33:46,446 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:35:52,279 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:35:52,384 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:35:52,384 - root - INFO - Бот запущен
+2024-11-03 16:35:52,384 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:35:58,165 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:35:58,182 - utils.watermark - ERROR - Ошибка при обработке изображения: cannot write mode RGBA as JPEG
+2024-11-03 16:36:38,306 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:36:38,422 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:36:38,422 - root - INFO - Бот запущен
+2024-11-03 16:36:38,423 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:36:43,474 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:38:01,547 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:38:01,653 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:38:01,654 - root - INFO - Бот запущен
+2024-11-03 16:38:01,654 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:38:38,156 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:39:02,614 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:39:02,741 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:39:02,741 - root - INFO - Бот запущен
+2024-11-03 16:39:02,742 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:39:07,155 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:40:28,889 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:40:28,990 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:40:28,990 - root - INFO - Бот запущен
+2024-11-03 16:40:28,990 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:40:34,776 - utils.watermark - WARNING - Шрифт Arial.ttf не найден, использую шрифт по умолчанию
+2024-11-03 16:40:34,778 - utils.watermark - ERROR - Ошибка при обработке изображения: cannot open resource
+2024-11-03 16:43:05,528 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:43:05,650 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:43:05,650 - root - INFO - Бот запущен
+2024-11-03 16:43:05,650 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:43:09,894 - utils.watermark - ERROR - Ошибка при обработке изображения: empty range for randrange() (0, -197, -197)
+2024-11-03 16:47:27,108 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:47:27,218 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:47:27,218 - root - INFO - Бот запущен
+2024-11-03 16:47:27,218 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:51:57,408 - utils.watermark - ERROR - Ошибка при обработке видео: 'WatermarkProcessor' object has no attribute '_get_floating_position'
+2024-11-03 16:53:27,718 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:53:27,816 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:53:27,816 - root - INFO - Бот запущен
+2024-11-03 16:53:27,816 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:53:37,477 - utils.watermark - ERROR - Ошибка при обработке видео: 'WatermarkProcessor' object has no attribute '_get_floating_position'
+2024-11-03 16:54:22,426 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:54:22,532 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:54:22,532 - root - INFO - Бот запущен
+2024-11-03 16:54:22,532 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 16:57:20,320 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 16:57:20,422 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 16:57:20,422 - root - INFO - Бот запущен
+2024-11-03 16:57:20,422 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 17:00:06,186 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 17:00:06,290 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 17:00:06,290 - root - INFO - Бот запущен
+2024-11-03 17:00:06,291 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 17:01:59,910 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 17:02:00,013 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 17:02:00,013 - root - INFO - Бот запущен
+2024-11-03 17:02:00,014 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 17:04:14,377 - aiogram - INFO - Bot: freaksredan_watermarkbot [@freaksredan_watermarkbot]
+2024-11-03 17:04:14,491 - aiogram - WARNING - Updates were skipped successfully.
+2024-11-03 17:04:14,492 - root - INFO - Бот запущен
+2024-11-03 17:04:14,492 - aiogram.dispatcher.dispatcher - INFO - Start polling.
+2024-11-03 17:06:30,887 - py.warnings - WARNING - C:\Users\GofMan3\AppData\Local\Programs\Python\Python310\lib\site-packages\moviepy\video\io\ffmpeg_reader.py:123: UserWarning: Warning: in file downloads\watermarked_BAACAgIAAxkBAAN1ZyeDXl7Id4bjli-npMbN8-XQhToAAohZAAJzejhJh2OHgkqNv4g2BA_temp.mp4, 2764800 bytes wanted but 0 bytes read,at frame 296/297, at time 10.21/10.21 sec. Using the last valid frame instead.
+  warnings.warn("Warning: in file %s, "%(self.filename)+
+

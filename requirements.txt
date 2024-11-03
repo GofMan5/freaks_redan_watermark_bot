@@ -1,0 +1,8 @@
+aiogram==2.2
+Pillow
+opencv-python
+numpy
+moviepy
+python-dotenv
+aiohttp
+random
